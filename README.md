@@ -296,17 +296,6 @@ This project is open source. See the LICENSE file for details.
 
 Created as a CBSE Computer Science project demonstrating practical application of Python programming and database management skills. The project showcases how theoretical concepts can be applied to solve real-world business problems.
 
-## 🆘 Support
-
-For assistance with this project:
-
-1. **Review the Documentation**: Check `Computer science project.pdf`
-2. **Examine the Code**: Comments explain key sections
-3. **MySQL Resources**: Refer to official MySQL documentation
-4. **Python Help**: Python documentation and community forums
-
----
-
 ## 🌟 Why This Project?
 
 This Inventory Management System stands out because:
